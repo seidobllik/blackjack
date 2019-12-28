@@ -1,6 +1,5 @@
 /*
 	Tom Baker
-	COMP 220 Week 1 Lab
 
 	--Blackjack--
 	Emulate the game of blackjack using a 2D array as a deck of cards.
